@@ -1,6 +1,8 @@
 body {
   padding: 5px 25px;
   background-image: url(../képek/hatter.png);
+  margin-left: 300px;
+  margin-right: 300px;
 }
 
 p {
